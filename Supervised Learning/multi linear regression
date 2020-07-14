@@ -1,0 +1,13 @@
+Multi Linear Regression -  FInding out the best fit plane
+multiple independent variable but single output
+
+by using formula 1st you find the multi linear regression plane and then after you have to 
+reduce the submission then you find then best fit plane
+
+Gradient Decent is an optimaization algo which find you the best fit line in minimal number of iterration
+
+
+   # corelation is a matrix whic is used to see relation between two variables 
+   # range of correlation is  between -1 to 1
+   # a variable is said to be highly corelated with one more variable if its corealtion value to 1 or -1 
+   # corelation is Relation between nummerics if we want to then convert to encoded values

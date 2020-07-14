@@ -1,0 +1,7 @@
+Linear Regression -  FInding out the best fit line  (y=mx+c)line formula
+
+by using formula 1st you find the linear regression line and then after you have to 
+reduce the submission then you find then best fit line 
+
+Gradient Decent is an optimaization algo which find you the best fit line in minimal number of iterration
+
