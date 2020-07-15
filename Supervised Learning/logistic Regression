@@ -1,0 +1,14 @@
+logistic regressionn is used for binary type of algorithm 0 or 1, yes or no,high or low
+
+logistic regression uses sigmoit function
+
+range 0-1
+
+if value is greater then0.5 then consider 1 and lower than consider 0
+
+when we apply sigmoid function onn linear regression eq y=mx+c
+you will getting logistic regression
+
+
+
+Note:  Standard scaling is mandatory if we are going to apply data on  algo which is releated to Distance calculation

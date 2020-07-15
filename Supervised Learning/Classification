@@ -1,0 +1,3 @@
+Classification:
+A classification model groups the output into a class. If what we are trying to predict is discrete or categorical then it is a classification problem. 
+For example, if you want to determine whether a stock is “overvalued” or “undervalued” i.e. Classifying a stock into 2 discrete categories.

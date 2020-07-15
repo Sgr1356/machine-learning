@@ -5,3 +5,11 @@ reduce the submission then you find then best fit line
 
 Gradient Decent is an optimaization algo which find you the best fit line in minimal number of iterration
 
+
+
+
+
+Regression: 
+A regression model predicts value (dependent variable) based on independent variables. Used for finding out the relationship between variables and forecasting. 
+It can be used to predict a real valued output. For example, Predict the age of a person, given the picture of the person.
+
