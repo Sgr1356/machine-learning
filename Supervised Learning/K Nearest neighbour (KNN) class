@@ -1,0 +1,8 @@
+K should always be an odd number
+k will be calculated by distance formula
+1:euclidean distance
+2:manhattan distance
+3:minkowski distance
+
+K specifiy how many nearest neighbour you want
+
